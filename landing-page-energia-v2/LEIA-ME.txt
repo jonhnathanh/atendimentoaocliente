@@ -1,0 +1,16 @@
+ATENDE ENERGIA — LANDING PAGE V2 (ESTÁTICA)
+
+1. Abra index.html no navegador para conferir.
+2. Para substituir os arquivos do site existente conectado ao GitHub:
+   - Entre no repositório ligado ao projeto Vercel.
+   - Envie os arquivos extraídos deste ZIP à raiz do repositório (não envie apenas o ZIP).
+   - Inclua a pasta images inteira, preservando os nomes.
+   - Faça commit na branch de produção (geralmente main).
+   - Em Vercel > Deployments, confira se o novo deploy está Ready / Production.
+3. Se o Vercel espera uma estrutura React + Vite ou uma pasta dist, a forma de publicação precisa ser ajustada à configuração existente. Este pacote é estático (sem build).
+
+WHATSAPP: 5587981089953
+MARCA: Atende Energia, identidade independente.
+IMPORTANTE: Não é site oficial nem afiliado à Energisa. A logomarca da concessionária e números institucionais apresentados em capturas de tela não foram reaproveitados para evitar atribuições indevidas. O conteúdo sobre emissão de contas e pagamentos orienta que sejam realizados pelos canais oficiais.
+
+Não é necessário VS Code para alterar/publicar este projeto estático pelo navegador.
